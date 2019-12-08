@@ -1,4 +1,8 @@
 # password-generator
 
 Простой генератор пароля различной длины.
-Запуск с помощью команды `python passgen.py` либо `python python passgen.py -l <int>`, где `<int>` - любое число больше 3-х
+
+Команда запуска: **`python passgen.py`**,
+либо **`python python passgen.py -l <int>`**, где *`<int>`* - любое число больше трёх
+
+Для вызова справки: **`python passgen.py -h`** или **`python passgen.py --help`**
